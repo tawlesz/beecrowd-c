@@ -1,0 +1,9 @@
+# executaveis
+*.exe
+
+# pastas de build
+*build/
+**/output/
+
+# vscode
+.vscode
